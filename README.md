@@ -23,4 +23,4 @@
 
 ## Лицензия
 
-Этот проект лицензируется под лицензией MIT - подробности см. в файле [LICENSE](LICENSE).
+Этот проект лицензируется под лицензией MIT - подробности см. в файле [LICENSE](.venv/Lib/site-packages/APScheduler-3.6.3.dist-info/LICENSE.txt).
